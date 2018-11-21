@@ -1,4 +1,4 @@
-added a line for conflict
+added using GitHub
 added a line to push
 
 A
